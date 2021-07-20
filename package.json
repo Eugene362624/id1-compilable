@@ -2,7 +2,7 @@
   "name": "charge-app",
   "version": "1.0.0",
   "description": "",
-  "main": ".src/public/js/index.js",
+  "main": "/src/public/js/index.js",
   "scripts": {
     "dev": "charge serve src",
     "build": "charge build src public"
